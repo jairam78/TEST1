@@ -1,0 +1,60 @@
+Reading registry value: HKLM:\SOFTWARE\WOW6432Node\IGS\C4EBReg\user\IntranetID
+Testing registry key: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups
+Registry key found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups
+Request: https://bluepages.ibm.com/tools/groups/groupsxml.wss?task=inAGroup&email=jairam78@in.ibm.com&group=Win10_Insider_Ring
+Response: <?xml version="1.0" encoding="UTF-8" ?>
+<group>
+<request>inAGroup</request>
+<groupName>Win10_Insider_Ring</groupName><member>jairam78@in.ibm.com</member><rc>5</rc>
+<msg>User Not In Group</msg>
+</group>
+Testing registry value: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Insider_Ring
+Registry value not found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Insider_Ring
+Request: https://bluepages.ibm.com/tools/groups/groupsxml.wss?task=inAGroup&email=jairam78@in.ibm.com&group=Win10_Pilot_Ring
+Response: <?xml version="1.0" encoding="UTF-8" ?>
+<group>
+<request>inAGroup</request>
+<groupName>Win10_Pilot_Ring</groupName><member>jairam78@in.ibm.com</member><rc>5</rc>
+<msg>User Not In Group</msg>
+</group>
+Testing registry value: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Pilot_Ring
+Registry value not found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Pilot_Ring
+Request: https://bluepages.ibm.com/tools/groups/groupsxml.wss?task=inAGroup&email=jairam78@in.ibm.com&group=Win10_UX_Ring
+Response: <?xml version="1.0" encoding="UTF-8" ?>
+<group>
+<request>inAGroup</request>
+<groupName>Win10_UX_Ring</groupName><member>jairam78@in.ibm.com</member><rc>5</rc>
+<msg>User Not In Group</msg>
+</group>
+Testing registry value: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_UX_Ring
+Registry value not found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_UX_Ring
+Reading registry value: HKLM:\SOFTWARE\WOW6432Node\IGS\C4EBReg\user\IntranetID
+Testing registry key: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups
+Registry key found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups
+Request: https://bluepages.ibm.com/tools/groups/groupsxml.wss?task=inAGroup&email=jairam78@in.ibm.com&group=Win10_Insider_Ring
+Response: <?xml version="1.0" encoding="UTF-8" ?>
+<group>
+<request>inAGroup</request>
+<groupName>Win10_Insider_Ring</groupName><member>jairam78@in.ibm.com</member><rc>5</rc>
+<msg>User Not In Group</msg>
+</group>
+Testing registry value: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Insider_Ring
+Registry value not found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Insider_Ring
+Request: https://bluepages.ibm.com/tools/groups/groupsxml.wss?task=inAGroup&email=jairam78@in.ibm.com&group=Win10_Pilot_Ring
+Response: <?xml version="1.0" encoding="UTF-8" ?>
+<group>
+<request>inAGroup</request>
+<groupName>Win10_Pilot_Ring</groupName><member>jairam78@in.ibm.com</member><rc>5</rc>
+<msg>User Not In Group</msg>
+</group>
+Testing registry value: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Pilot_Ring
+Registry value not found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_Pilot_Ring
+Request: https://bluepages.ibm.com/tools/groups/groupsxml.wss?task=inAGroup&email=jairam78@in.ibm.com&group=Win10_UX_Ring
+Response: <?xml version="1.0" encoding="UTF-8" ?>
+<group>
+<request>inAGroup</request>
+<groupName>Win10_UX_Ring</groupName><member>jairam78@in.ibm.com</member><rc>5</rc>
+<msg>User Not In Group</msg>
+</group>
+Testing registry value: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_UX_Ring
+Registry value not found: HKLM:\SOFTWARE\WOW6432Node\IBM\IGATEM\groups\Win10_UX_Ring
