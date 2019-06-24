@@ -1,0 +1,91 @@
+24-06-2019 08:06:40: ===== START OF LOG =====
+24-06-2019 08:06:41: Checking validity of rel.txt...
+24-06-2019 08:06:41: elapsed time: 3064 *** test:True
+24-06-2019 08:06:41: rel.txt checks out. Continuing with process...
+24-06-2019 08:06:41: Importing CSVs...
+24-06-2019 08:06:41: File rel.txt exists. Making a backup.
+24-06-2019 08:06:41: Creating new rel.txt from WAM file.
+24-06-2019 08:06:41: New rel.txt has been created.
+24-06-2019 08:06:41: File reltemp.txt exists. Checking for buffered exemptions.
+24-06-2019 08:06:41: Getting contents of reltemp.txt.
+24-06-2019 08:06:41: Temp file is empty. Nothing to process.
+24-06-2019 08:06:41: Removed temp file.
+24-06-2019 08:06:41: ===== END OF LOG =====
+24-06-2019 10:15:36: ===== START OF LOG =====
+24-06-2019 10:15:37: Checking validity of rel.txt...
+24-06-2019 10:15:37: elapsed time: 3064 *** test:True
+24-06-2019 10:15:37: rel.txt checks out. Continuing with process...
+24-06-2019 10:15:37: Importing CSVs...
+24-06-2019 10:15:37: File rel.txt exists. Making a backup.
+24-06-2019 10:15:37: Creating new rel.txt from WAM file.
+24-06-2019 10:15:37: New rel.txt has been created.
+24-06-2019 10:15:37: File reltemp.txt exists. Checking for buffered exemptions.
+24-06-2019 10:15:37: Getting contents of reltemp.txt.
+24-06-2019 10:15:37: Temp file is empty. Nothing to process.
+24-06-2019 10:15:37: Removed temp file.
+24-06-2019 10:15:37: ===== END OF LOG =====
+24-06-2019 12:59:38: ===== START OF LOG =====
+24-06-2019 12:59:38: Checking validity of rel.txt...
+24-06-2019 12:59:38: elapsed time: 3064 *** test:True
+24-06-2019 12:59:38: rel.txt checks out. Continuing with process...
+24-06-2019 12:59:38: Importing CSVs...
+24-06-2019 12:59:38: File rel.txt exists. Making a backup.
+24-06-2019 12:59:38: Creating new rel.txt from WAM file.
+24-06-2019 12:59:38: New rel.txt has been created.
+24-06-2019 12:59:38: File reltemp.txt exists. Checking for buffered exemptions.
+24-06-2019 12:59:38: Getting contents of reltemp.txt.
+24-06-2019 12:59:38: Temp file is empty. Nothing to process.
+24-06-2019 12:59:38: Removed temp file.
+24-06-2019 12:59:38: ===== END OF LOG =====
+24-06-2019 15:13:22: ===== START OF LOG =====
+24-06-2019 15:13:22: Checking validity of rel.txt...
+24-06-2019 15:13:23: elapsed time: 3064 *** test:True
+24-06-2019 15:13:23: rel.txt checks out. Continuing with process...
+24-06-2019 15:13:23: Importing CSVs...
+24-06-2019 15:13:23: File rel.txt exists. Making a backup.
+24-06-2019 15:13:23: Creating new rel.txt from WAM file.
+24-06-2019 15:13:23: New rel.txt has been created.
+24-06-2019 15:13:23: File reltemp.txt exists. Checking for buffered exemptions.
+24-06-2019 15:13:23: Getting contents of reltemp.txt.
+24-06-2019 15:13:23: Temp file is empty. Nothing to process.
+24-06-2019 15:13:23: Removed temp file.
+24-06-2019 15:13:23: ===== END OF LOG =====
+24-06-2019 17:17:14: ===== START OF LOG =====
+24-06-2019 17:17:14: Checking validity of rel.txt...
+24-06-2019 17:17:14: elapsed time: 3064 *** test:True
+24-06-2019 17:17:14: rel.txt checks out. Continuing with process...
+24-06-2019 17:17:15: Importing CSVs...
+24-06-2019 17:17:15: File rel.txt exists. Making a backup.
+24-06-2019 17:17:15: Creating new rel.txt from WAM file.
+24-06-2019 17:17:15: New rel.txt has been created.
+24-06-2019 17:17:15: File reltemp.txt exists. Checking for buffered exemptions.
+24-06-2019 17:17:15: Getting contents of reltemp.txt.
+24-06-2019 17:17:15: Temp file is empty. Nothing to process.
+24-06-2019 17:17:15: Removed temp file.
+24-06-2019 17:17:15: ===== END OF LOG =====
+24-06-2019 19:20:14: ===== START OF LOG =====
+24-06-2019 19:20:14: Checking validity of rel.txt...
+24-06-2019 19:20:14: elapsed time: 3064 *** test:True
+24-06-2019 19:20:14: rel.txt checks out. Continuing with process...
+24-06-2019 19:20:14: Importing CSVs...
+24-06-2019 19:20:14: File rel.txt exists. Making a backup.
+24-06-2019 19:20:14: Creating new rel.txt from WAM file.
+24-06-2019 19:20:14: New rel.txt has been created.
+24-06-2019 19:20:14: File reltemp.txt exists. Checking for buffered exemptions.
+24-06-2019 19:20:14: Getting contents of reltemp.txt.
+24-06-2019 19:20:14: Temp file is empty. Nothing to process.
+24-06-2019 19:20:14: Removed temp file.
+24-06-2019 19:20:14: ===== END OF LOG =====
+24-06-2019 22:26:20: ===== START OF LOG =====
+24-06-2019 22:26:20: Checking validity of rel.txt...
+24-06-2019 22:26:20: elapsed time: 3064 *** test:True
+24-06-2019 22:26:20: rel.txt checks out. Continuing with process...
+24-06-2019 22:26:20: Importing CSVs...
+24-06-2019 22:26:20: File rel.txt exists. Making a backup.
+24-06-2019 22:26:20: Creating new rel.txt from WAM file.
+24-06-2019 22:26:20: New rel.txt has been created.
+24-06-2019 22:26:20: File reltemp.txt exists. Checking for buffered exemptions.
+24-06-2019 22:26:20: Getting contents of reltemp.txt.
+24-06-2019 22:26:20: Temp file is empty. Nothing to process.
+24-06-2019 22:26:20: Removed temp file.
+24-06-2019 22:26:20: ===== END OF LOG =====
